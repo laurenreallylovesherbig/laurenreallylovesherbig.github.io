@@ -1,8 +1,8 @@
 # Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
+- name: Chris Prezioso
+  dates: June 6, 1998
+  qualification: English Major, Education Minor
+  quote: > "I'm Screaming"
+    
+  description: | #Chris is my big and I LOVE THEM
     Description of qualification
