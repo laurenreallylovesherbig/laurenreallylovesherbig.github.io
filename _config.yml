@@ -34,8 +34,8 @@ about_content: | # this will include new lines to allow paragraphs
     - Links
     - Images
 
-# Projects Section
-# projects_title: (Big/Little Week)
+# Big/Little Week
+# big/little week_title: (Big/Little Week)
 
 # Experience Section
 # experience_title: Experience #(Reveal)
