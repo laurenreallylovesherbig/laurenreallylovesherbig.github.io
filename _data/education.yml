@@ -1,8 +1,9 @@
 # Education Template
-- name: Chris
-  dates: June 6, 1998 - present
-  qualification: They are a LARGE
-  quote: > "I'm SCREAMING"
-    
+- name: Chris Prezioso
+  dates: June 6, 1998-present
+  qualification: A whole Large
+  quote: >
+    "I'm SCREEAMING"
   description: | # this will include new lines to allow paragraphs
-    Chris has attended college for a whole time
+    Chris has attended college for several years
+© 2019 GitHub, Inc.
