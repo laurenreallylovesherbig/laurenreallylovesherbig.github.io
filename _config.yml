@@ -15,7 +15,7 @@ github_username:  jekyll
 dribbble_username: jekyll
 facebook_username: jekyll
 flickr_username: jekyll
-instagram_username: jekyll
+instagram_username: laurens_big1
 linkedin_username: jekyll
 xing_username: jekyll
 pinterest_username: jekyll
@@ -35,16 +35,16 @@ about_content: | # this will include new lines to allow paragraphs
     - Images
 
 # Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+# projects_title: Projects #(Big/Little Week)
 
 # Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+# experience_title: Experience #(Reveal)
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+# education_title: Education #(Albany)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+# more_title: A Little More About Me #(TBD)
 more_content: | # this will include new lines to allow paragraphs
   This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
