@@ -10,17 +10,17 @@ phone:
 website:
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
+twitter_username:
+github_username:  
+dribbble_username: 
+facebook_username:
+flickr_username: 
 instagram_username: laurens__big1
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+linkedin_username: 
+xing_username: 
+pinterest_username: 
+youtube_username: 
+googleplus_username:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
